@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import Card from './Card.jsx';
 import './Card.css';
